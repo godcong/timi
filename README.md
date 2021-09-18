@@ -1,4 +1,4 @@
-# timi
+# timi is Tidb Minimize
 
 ## What's this ##
 This is a test using tidb minimize instance container
